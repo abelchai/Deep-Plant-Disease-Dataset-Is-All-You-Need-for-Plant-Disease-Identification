@@ -1,5 +1,7 @@
 # Deep-Plant-Disease Dataset Is All You Need for Plant Disease Identification
 
+The full dataset and textual description will be available upon publication.
+
 The supplementary material is available [here](supplementary_material.pdf) 
 
 The sample images are available [here](/sample_images/) 
