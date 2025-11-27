@@ -5,7 +5,7 @@ https://acmmm2025.org/
 
 The supplementary material is available [here](supplementary_materials.pdf) 
 
-The full dataset and textual description will be available soon.
+The full dataset and textual description are available at [Deep-Plant-Disease Dataset (Zenodo)](https://zenodo.org/records/16879271?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQwOGJhM2RhLWI1ZTktNGFkMS1iOTZhLWY1M2Q0NmI0NzU3MyIsImRhdGEiOnt9LCJyYW5kb20iOiI1ODk3YTYzMjkxOTlhZjY4YTg2ZGI5ZmM5NGM3NmQ4MiJ9.0gvpC329PSWP5zxAK2G_p12SFUNFWm9hLBHO7LrQrHquXrBa3P2_3Owt2DD1zta1Kn_j2BQO3zZXJJzlC_LPPg)
 
 This dataset consist of 248,578 images covering 55 crop species, 175 disease categories and 333 unique crop-disease combinations.
 
