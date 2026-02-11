@@ -9,8 +9,7 @@
 # Deep-Plant-Disease Dataset Is All You Need for Plant Disease Identification
 
 ## Abstract
-This paper is accepted at 33rd ACM International Conference on Multimedia 2025
-https://acmmm2025.org/
+This paper is accepted at 33rd ACM International Conference on Multimedia 2025 [[Link]](https://acmmm2025.org/)
 
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3758192)
 
