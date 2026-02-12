@@ -39,6 +39,8 @@ This dataset consist of 248,578 images covering 55 crop species, 175 disease cat
 
 The sample images are available [here](/sample_images/) 
 
+The full text description are available at [here](/text_description)
+
 <p align="center">
   <img src="figure/license.png" alt="results" width="700">
    <br>
