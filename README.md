@@ -15,6 +15,8 @@ This paper is accepted at 33rd ACM International Conference on Multimedia 2025 [
 
 Plant diseases are caused by fungi, bacteria or viruses that adversely affect agricultural productivity. Early and accurate identification of these diseases is an important task in preventing their outbreak and minimizing their impact. Traditionally, plant disease identification has relied on the assessment of plant pathologists through visual inspection and laboratory analysis. However, these methods are often time-consuming, resource-intensive and susceptible to human error. Consequently, automated plant disease identification using deep learning models has emerged as a promising solution. These models not only improve diagnostic efficiency, but also give non-experts, including farmers and the general public, access to plant disease identification. The identification involves simultaneously recognizing both the crop species and its associated disease. Numerous studies have shown that deep learning models are capable of learning feature representations of crop and diseases symptoms based on visual appearances ~\cite{chai2025plantaim, chang2024general}. These models have been deployed in both single crop disease identification ~\cite{pacal2024enhancing, latif2022deep}, which focuses on detecting diseases affecting a specific crop, and multi crop disease identification ~\cite{biswas2024plant, chai2024beyond}, which targets diseases across multiple crop species. In this study, we focus on multi crop disease identification, addressing the challenges of identifying and diagnosing diseases across diverse crops in real-world agricultural settings.
 
+The supplementary material is available [here](supplementary_materials.pdf) 
+
 <p align="center">
   <img src="figure/intro.png" alt="intro" style="width:100%; max-width:1200px;">
 </p>
@@ -30,7 +32,9 @@ Plant diseases are caused by fungi, bacteria or viruses that adversely affect ag
   <img src="figure/summary_table.png" alt="results" width="700">
 </p>
 
-The supplementary material is available [here](supplementary_materials.pdf) 
+<p align="center">
+  <img src="figure/vis.png" alt="visualization" width="900">
+</p>
 
 ## Dataset
 The full dataset, Pretrained ViT weight and textual description are available at [Deep-Plant-Disease Dataset (Zenodo)](https://zenodo.org/records/16879271?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQwOGJhM2RhLWI1ZTktNGFkMS1iOTZhLWY1M2Q0NmI0NzU3MyIsImRhdGEiOnt9LCJyYW5kb20iOiI1ODk3YTYzMjkxOTlhZjY4YTg2ZGI5ZmM5NGM3NmQ4MiJ9.0gvpC329PSWP5zxAK2G_p12SFUNFWm9hLBHO7LrQrHquXrBa3P2_3Owt2DD1zta1Kn_j2BQO3zZXJJzlC_LPPg)
