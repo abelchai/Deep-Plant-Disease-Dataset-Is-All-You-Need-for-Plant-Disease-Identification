@@ -25,7 +25,10 @@ Plant diseases are caused by fungi, bacteria or viruses that adversely affect ag
 3. We performed a comprehensive analysis using textual description evaluation and Grad-CAM visualization technique to demonstrate the robustness of representations learned from our proposed dataset, highlighting its effectiveness and reliability for real-world deployment.
 
 ## Result
-![Acc Results](figure/summary_table.png)
+
+<p align="center">
+  <img src="figure/summary_table.png" alt="results" width="700">
+</p>
 
 The supplementary material is available [here](supplementary_materials.pdf) 
 
@@ -36,16 +39,23 @@ This dataset consist of 248,578 images covering 55 crop species, 175 disease cat
 
 The sample images are available [here](/sample_images/) 
 
-![Dataset_sources](figure/license.png)
+<p align="center">
+  <img src="figure/license.png" alt="results" width="700">
+   <br>
+  <i>The table above show all sources with licenses of our proposed Deep-Plant-Disease dataset.</i>
+</p>
 
-<p align="center">The table above show all sources with licenses of our proposed Deep-Plant-Disease dataset.</p>
+<p align="center">
+  <img src="figure/crop_description.png" alt="results" width="700">
+   <br>
+  <i>The table above show the example of botanical taxonomy textual descriptions for crop.</i>
+</p>
 
-
-![Crop_description](figure/crop_description.png)
-<p align="center">The table above show the example of botanical taxonomy textual descriptions for crop.</p>
-
-![Crop_description](figure/disease_description.png)
-<p align="center">The table above show the example of botanical taxonomy textual descriptions for disease.</p>
+<p align="center">
+  <img src="figure/disease_description.png" alt="results" width="700">
+   <br>
+  <i>The table above show the example of botanical taxonomy textual descriptions for disease.</i>
+</p>
 
 ## Supplementary
 
